@@ -1,0 +1,5 @@
+# ninja log v5
+6	321	7959728845429824	build.ninja	a6d13fb4dd2b9be7
+23	427	7883268168319300	CMakeFiles/cng213a2.dir/avltree.c.obj	a4b2edd6d1f9643d
+5	136	7883270619922785	CMakeFiles/cng213a2.dir/flightsApp.c.obj	ad88e4d5ad22e76
+137	302	7883270621492607	cng213a2.exe	49e676812f4c1001

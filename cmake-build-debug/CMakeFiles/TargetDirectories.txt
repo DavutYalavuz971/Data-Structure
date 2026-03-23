@@ -1,0 +1,3 @@
+C:/Users/Davut Yalavuz/CLionProjects/Flights_app/cmake-build-debug/CMakeFiles/cng213a2.dir
+C:/Users/Davut Yalavuz/CLionProjects/Flights_app/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Davut Yalavuz/CLionProjects/Flights_app/cmake-build-debug/CMakeFiles/rebuild_cache.dir
